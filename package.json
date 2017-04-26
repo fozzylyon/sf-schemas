@@ -1,6 +1,6 @@
 {
   "name": "sf-schemas",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Salesforce schema management in s3. For use with saline, a salesforce ODM",
   "main": "index.js",
   "scripts": {
