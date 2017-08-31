@@ -22,6 +22,7 @@
   "dependencies": {
     "aws-sdk": "^2.45.0",
     "bluebird": "^3.5.0",
-    "jsforce": "^1.7.1"
+    "jsforce": "^1.7.1",
+    "debug": "^2.6.0"
   }
 }
